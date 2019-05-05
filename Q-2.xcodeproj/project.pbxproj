@@ -15,6 +15,7 @@
 		0D8F9040226E6A550033D159 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0D8F903E226E6A550033D159 /* LaunchScreen.storyboard */; };
 		0D8F904B226E6A550033D159 /* Q_2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D8F904A226E6A550033D159 /* Q_2Tests.swift */; };
 		0D8F9056226E6A550033D159 /* Q_2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D8F9055226E6A550033D159 /* Q_2UITests.swift */; };
+		0D98D564227E7E140039310E /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D98D563227E7E140039310E /* MapViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		0D8F9051226E6A550033D159 /* Q-2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Q-2UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0D8F9055226E6A550033D159 /* Q_2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q_2UITests.swift; sourceTree = "<group>"; };
 		0D8F9057226E6A550033D159 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0D98D563227E7E140039310E /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				0D8F903E226E6A550033D159 /* LaunchScreen.storyboard */,
 				0D8F9041226E6A550033D159 /* Info.plist */,
 				0D8F9039226E6A530033D159 /* Q_2.xcdatamodeld */,
+				0D98D563227E7E140039310E /* MapViewController.swift */,
 			);
 			path = "Q-2";
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 				0D8F903B226E6A530033D159 /* Q_2.xcdatamodeld in Sources */,
 				0D8F9035226E6A530033D159 /* ViewController.swift in Sources */,
 				0D8F9033226E6A530033D159 /* AppDelegate.swift in Sources */,
+				0D98D564227E7E140039310E /* MapViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
